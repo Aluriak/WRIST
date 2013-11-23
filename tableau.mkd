@@ -1,0 +1,14 @@
+# WRIST
+- touchscreen 
+  - électronique ?;
+- boutons :
+  - on/off (1);
+  - programmables (2);
+- batterie :
+  - 5V;
+  - rechargeable USB;
+  - poids < 300g;
+- armature :
+  - bracelet cuir;
+  - ?
+

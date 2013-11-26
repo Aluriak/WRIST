@@ -7,8 +7,10 @@
 - batterie :
   - 5V;
   - rechargeable USB;
-  - poids < 300g;
+  - poids inf à 300g;
 - armature :
   - bracelet cuir;
   - ?
-
+## Liens intéressants
+- http://www.amazon.com/FE01-BL-Wireless-Keyboard-Mouse-Touchpad/dp/B003UE52ME/ref=sr_1_15/179-1354501-7850622?ie=UTF8&qid=1385490915&sr=8-15&keywords=Raspberry+Pi+Lcd+Touch+Screen
+- http://www.daveakerman.com/?page_id=1294
